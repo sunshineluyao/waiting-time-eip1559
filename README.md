@@ -31,4 +31,5 @@
 
 ## figs
 - merge
+-- Figure 1: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig1](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig1)
 - NFT
