@@ -15,17 +15,12 @@
 ## Table of Contents
 - data
 - code
-- spotlight
-- more about the author
-- references
+- figs
 
 
 
 ## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
+
 
 
 ## Code
@@ -33,3 +28,7 @@
 - Process Data
 - Analyze Data
 - ...
+
+## figs
+- merge
+- NFT
