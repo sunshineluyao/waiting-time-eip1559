@@ -33,15 +33,32 @@
 ### merge
 #### Figure 1
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig1](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig1)
-<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig1.jpeg" alt="drawing" width="800"/>
-- Figure 2: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig2](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig2)
-- Figure 3: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig3](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig3)
-- Figure 4: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4)
-- Figure 5: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig5](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig5)
-- Figure 6: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig6](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig6)
-- Figure 7: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig7](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig7)
-- Figure 8: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8)
-- Figure 9: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig9](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig9)
+<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig1.png" alt="drawing" width="800"/>
+#### Figure 2: 
+HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig2](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig2)
+<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig2.png" alt="drawing" width="800"/>
+
+#### Figure 3: 
+HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig3](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig3)
+<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig3.png" alt="drawing" width="800"/>
+#### Figure 4: 
+HTML [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4)
+<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig4.png" alt="drawing" width="800"/>
+#### Figure 5: 
+HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig5](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig5)
+<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig5.png" alt="drawing" width="800"/>
+#### Figure 6: 
+HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig6](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig6)
+<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig6.png" alt="drawing" width="800"/>
+#### Figure 7: 
+HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig7](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig7)
+<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig7.png" alt="drawing" width="800"/>
+#### Figure 8: 
+HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8)
+<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig8.png" alt="drawing" width="800"/>
+#### Figure 9: 
+HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig9](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig9)
+<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig9.png" alt="drawing" width="800"/>
 
 ####  Figure 10:
 <img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig10.png" alt="drawing" width="800"/>
