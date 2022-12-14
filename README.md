@@ -42,6 +42,16 @@
 - Figure 9: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig9](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig9)
 - Figure 10:
 ![Figure 10](https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig10.jpeg)
+- Figure 11:
+![Figure 11](https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig11.jpeg)
+- Figure 12:
+![Figure 12](https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig12.jpeg)
+- Figure 13:
+![Figure 13](https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig13.jpeg)
+- Figure 14:
+![Figure 14](https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig14.jpeg)
+- Figure 15:
+![Figure 15](https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig15.jpeg)
 
 
 ## NFT
