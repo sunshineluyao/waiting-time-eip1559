@@ -1,0 +1,6 @@
+plugins:
+- jemoji
+- jekyll-remote-theme
+remote_theme: pages-themes/architect@v0.2.0
+title: Understand Waiting Time 
+description: in EIP-1559 Transaction Fee Mechanisms
