@@ -50,7 +50,7 @@
 
 #### Figure 12:
 
-<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig12.png" alt="drawing" width="200"/>
+<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig12.png" alt="drawing" width="800"/>
 
 
 ####  Figure 13:
