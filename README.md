@@ -44,7 +44,7 @@
 ![Figure 10](https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig10.jpeg)
 
 - Figure 11:
-![Figure 11](https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig11.jpeg)
+![Figure 11](https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig11.png)
 
 - Figure 12:
 ![Figure 12](https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig12.png)
