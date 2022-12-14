@@ -19,11 +19,11 @@
 
 
 
-## Data
+## data
 
 
 
-## Code
+## code
 - Query Data
 - Process Data
 - Analyze Data
