@@ -13,9 +13,9 @@
   - [Intellectual Merits and Practical impacts of your project.]
 
 ## Table of Contents
-- data
-- code
-- figs
+- [data](https://github.com/sunshineluyao/waiting-time-eip1559/tree/main/data)
+- [code](https://github.com/sunshineluyao/waiting-time-eip1559/tree/main/code)
+- [figs](https://github.com/sunshineluyao/waiting-time-eip1559/tree/main/figs)
 
 
 
