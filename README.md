@@ -40,6 +40,26 @@ code
 
 ## figs
 
+```
+figs
+├── Result 1: the merge
+│   ├── 1.1. The Waiting Time (delay)
+│   │   ├── 1.1.1. Visualizations
+│   │   ├── 1.1.2. Moving Average Smoothing
+│   │   └── 1.1.3. Regression Discontinuity Design
+│   ├── 1.2. The Gas Used Percentage
+│   │   ├── 1.2.1. Visualizations
+│   │   ├── 1.2.2. Moving Average Smoothing
+│   │   └── 1.2.3. Regression Discontinuity Design
+│   └── 1.3. The Market Congestion
+│       ├── 1.3.1. Visualizations
+│       ├── 1.3.2. Moving Average Smoothing
+│       └── 1.3.3. Regression Discontinuity Design
+└── Result 2. The NFT drops
+    ├── 2.1 Visualizations
+    └── 2.2. Time Series Forecast
+```
+
 ### Result 1: the merge
 
 #### 1.1. The Waiting Time (delay)
