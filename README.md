@@ -44,7 +44,7 @@ code
 
 #### 1.1. The Waiting Time (delay)
 
-##### Visualizations
+##### 1.1.1. Visualizations
 - Figure 1
 
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig1](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig1)
@@ -63,7 +63,7 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig3](htt
 HTML [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4)
 <img src="./figs/merge/fig4.png" alt="drawing" width="800"/>
 
-##### Moving Average Smoothing
+##### 1.1.2. Moving Average Smoothing
 
 - Figure 12:
 
@@ -80,13 +80,13 @@ HTML [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4](http
 - Figure 16:
 <img src="./figs/merge/fig16.png" alt="drawing" width="800"/>
 
-##### Regression Discontinuity Design 
+##### 1.1.3. Regression Discontinuity Design 
 
 *Tables refer to the paper* 
 
 #### 1.2. The Gas Used Percentage
 
-##### Visualization
+##### 1.2.1. Visualization
 - Figure 5
 
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig5](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig5)
@@ -103,7 +103,7 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig6](htt
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig7](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig7)
 <img src="./figs/merge/fig7.png" alt="drawing" width="800"/>
 
-##### Moving Aveage Smoothing
+##### 1.2.2 Moving Aveage Smoothing
 - Figure 8: 
 
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8)
@@ -112,19 +112,19 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8](htt
 - Figure 15:
 <img src="./figs/merge/fig15.png" alt="drawing" width="800"/>
 
-##### Regression Discontinuity Design 
+##### 1.2.3 Regression Discontinuity Design 
 
 *Tables refer to the paper* 
 
 #### 1.3. The Market Congestion
-##### Visualization
+##### 1.3.1. Visualization
 - Figure 10:
 <img src="./figs/merge/fig10.png" alt="drawing" width="800"/>
 
 - Figure 11:
 <img src="./figs/merge/fig11.png" alt="drawing" width="800"/>
 
-##### Moving Aveage Smoothing
+##### 1.3.2. Moving Aveage Smoothing
 
 - Figure 17:
 <img src="./figs/merge/fig17.png" alt="drawing" width="800"/>
@@ -132,14 +132,14 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8](htt
 - Figure 18:
 <img src="./figs/merge/fig18.png" alt="drawing" width="800"/>
 
-##### Regression Discontinuity Design 
+##### 1.3.3. Regression Discontinuity Design 
 
 *Tables refer to the paper* 
 
 
 ## Results 2: NFT Drops
 
-### Visualization
+### 2.1.Visualization
 
 #### Figure 19:
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN1](https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN1)
@@ -168,7 +168,7 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 #### Figure 25:
 <img src="./figs/NFT/figP1.png" alt="drawing" width="800"/>
 
-### The Time Series Forecast
+### 2.2. The Time Series Forecast
 
 #### Figure 26:
 <img src="./figs/NFT/figP2.png" alt="drawing" width="800"/>
