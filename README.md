@@ -21,12 +21,10 @@
 
 ## data
 
-
-
 ## code
-- Query Data
-- Process Data
-- Analyze Data
+```
+
+```
 
 ## figs
 ### merge
