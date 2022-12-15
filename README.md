@@ -39,21 +39,44 @@ code
 ```
 
 ## figs
-### merge
-#### Figure 1
+
+### Result 1: the merge
+
+#### 1.1. The Waiting Time (delay)
+
+##### Visualizations
+- Figure 1
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig1](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig1)
 <img src="./figs/merge/fig1.png" alt="drawing" width="800"/>
-#### Figure 2: 
+- Figure 2: 
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig2](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig2)
 <img src="./figs/merge/fig2.png" alt="drawing" width="800"/>
 
-#### Figure 3: 
+- Figure 3: 
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig3](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig3)
 <img src="./figs/merge/fig3.png" alt="drawing" width="800"/>
-#### Figure 4: 
+- Figure 4: 
 HTML [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4)
 <img src="./figs/merge/fig4.png" alt="drawing" width="800"/>
-#### Figure 5: 
+
+##### Moving Average Smoothing
+
+- Figure 12:
+
+<img src="./figs/merge/fig12.png" alt="drawing" width="800"/>
+
+
+- Figure 13:
+<img src="./figs/merge/fig13.png" alt="drawing" width="800"/>
+
+- Figure 14:
+<img src="./figs/merge/fig14.png" alt="drawing" width="800"/>
+
+#### 1.3. Regression Discontinuity Design 
+
+*Tables refer to the paper* 
+
+
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig5](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig5)
 <img src="./figs/merge/fig5.png" alt="drawing" width="800"/>
 #### Figure 6: 
@@ -75,16 +98,6 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig9](htt
 ####  Figure 11:
 <img src="./figs/merge/fig11.png" alt="drawing" width="800"/>
 
-#### Figure 12:
-
-<img src="./figs/merge/fig12.png" alt="drawing" width="800"/>
-
-
-####  Figure 13:
-<img src="./figs/merge/fig13.png" alt="drawing" width="800"/>
-
-####  Figure 14:
-<img src="./figs/merge/fig14.png" alt="drawing" width="800"/>
 
 ####  Figure 15:
 <img src="./figs/merge/fig15.png" alt="drawing" width="800"/>
