@@ -86,3 +86,7 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig9](htt
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN1](https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN1)
 <img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/NFT/figN1.png" alt="drawing" width="800"/>
 
+#### Figure 17:
+HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN2](https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN2)
+<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/NFT/figN2.png" alt="drawing" width="800"/>
+
