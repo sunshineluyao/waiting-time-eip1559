@@ -94,55 +94,63 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig9](htt
 ####  Figure 15:
 <img src="./figs/merge/fig15.png" alt="drawing" width="800"/>
 
+####  Figure 16:
+<img src="./figs/merge/fig16.png" alt="drawing" width="800"/>
+
+####  Figure 17:
+<img src="./figs/merge/fig17.png" alt="drawing" width="800"/>
+
+####  Figure 18:
+<img src="./figs/merge/fig18.png" alt="drawing" width="800"/>
 
 ## NFT
 
-#### Figure 16:
+#### Figure 19:
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN1](https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN1)
 <img src="./figs/NFT/figN1.png" alt="drawing" width="800"/>
 
-#### Figure 17:
+#### Figure 20:
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN2](https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN2)
 <img src="./figs/NFT/figN2.png" alt="drawing" width="800"/>
 
-#### Figure 18:
+#### Figure 21:
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN3](https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN3)
 <img src="./figs/NFT/figN3.png" alt="drawing" width="800"/>
 
-#### Figure 19:
+#### Figure 22:
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN4](https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN4)
 <img src="./figs/NFT/figN4.png" alt="drawing" width="800"/>
 
-#### Figure 20:
+#### Figure 23:
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN5](https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN5)
 <img src="./figs/NFT/figN5.png" alt="drawing" width="800"/>
 
-#### Figure 21:
+#### Figure 24:
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6)
 <img src="./figs/NFT/figN6.png" alt="drawing" width="800"/>
 
-#### Figure 22:
+#### Figure 25:
 <img src="./figs/NFT/figP1.png" alt="drawing" width="800"/>
 
-#### Figure 23:
+#### Figure 26:
 <img src="./figs/NFT/figP2.png" alt="drawing" width="800"/>
 
-#### Figure 24:
+#### Figure 27:
 <img src="./figs/NFT/figP3.png" alt="drawing" width="800"/>
 
-#### Figure 25
+#### Figure 28
 <img src="./figs/NFT/figP4.png" alt="drawing" width="800"/>
 
-#### Figure 26
+#### Figure 29
 <img src="./figs/NFT/figP5.png" alt="drawing" width="800"/>
 
 
-#### Figure 27
+#### Figure 30
 <img src="./figs/NFT/figP6.png" alt="drawing" width="800"/>
 
-#### Figure 28
+#### Figure 31
 <img src="./figs/NFT/figP7.png" alt="drawing" width="800"/>
 
-#### Figure 29
+#### Figure 32
 <img src="./figs/NFT/figP8.png" alt="drawing" width="800"/>
 
