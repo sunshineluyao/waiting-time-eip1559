@@ -46,16 +46,20 @@ code
 
 ##### Visualizations
 - Figure 1
+
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig1](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig1)
 <img src="./figs/merge/fig1.png" alt="drawing" width="800"/>
 - Figure 2: 
+
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig2](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig2)
 <img src="./figs/merge/fig2.png" alt="drawing" width="800"/>
 
 - Figure 3: 
+
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig3](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig3)
 <img src="./figs/merge/fig3.png" alt="drawing" width="800"/>
 - Figure 4: 
+
 HTML [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4)
 <img src="./figs/merge/fig4.png" alt="drawing" width="800"/>
 
