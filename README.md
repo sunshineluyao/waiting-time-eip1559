@@ -21,9 +21,11 @@
 
 ## data
 - Source
--- EthereumETL
--- MemopoolGuru
-- Queried Data and Processed Data on Kaggle 
+ - EthereumETL
+ - MemopoolGuru
+- Data Kaggle 
+ - Queried Data
+ - Processed Data
 
 ## code
 ```
