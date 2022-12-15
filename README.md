@@ -47,10 +47,10 @@ code
 ### merge
 #### Figure 1
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig1](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig1)
-<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig1.png" alt="drawing" width="800"/>
+<img src="./figs/merge/fig1.png" alt="drawing" width="800"/>
 #### Figure 2: 
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig2](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig2)
-<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig2.png" alt="drawing" width="800"/>
+<img src="./figs/merge/fig2.png" alt="drawing" width="800"/>
 
 #### Figure 3: 
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig3](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig3)
