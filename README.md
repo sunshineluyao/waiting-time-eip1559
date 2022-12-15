@@ -54,7 +54,7 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig2](htt
 
 #### Figure 3: 
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig3](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig3)
-<img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig3.png" alt="drawing" width="800"/>
+<img src="./figs/merge/fig3.png" alt="drawing" width="800"/>
 #### Figure 4: 
 HTML [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4)
 <img src="https://github.com/sunshineluyao/waiting-time-eip1559/blob/main/figs/merge/fig4.png" alt="drawing" width="800"/>
