@@ -20,12 +20,15 @@
 
 
 ## data
-- Source
- -- EthereumETL
- -- MemopoolGuru
-- Data Kaggle 
- -- Queried Data
- -- Processed Data
+```
+data
+├── Data Source
+│   ├── EthereumETL
+│   └── MemopoolGuru
+└── Data Product on Kaggle
+    ├── Queried Data
+    └── Processed Data
+```
 
 ## code
 ```
