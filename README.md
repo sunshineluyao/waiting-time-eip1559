@@ -76,46 +76,70 @@ HTML [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4](http
 - Figure 14:
 <img src="./figs/merge/fig14.png" alt="drawing" width="800"/>
 
-#### 1.3. Regression Discontinuity Design 
+
+- Figure 16:
+<img src="./figs/merge/fig16.png" alt="drawing" width="800"/>
+
+##### Regression Discontinuity Design 
+
+*Tables refer to the paper* 
+
+#### 1.2. The Gas Used Percentage
+
+##### Visualization
+- Figure 5
+
+HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig5](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig5)
+
+<img src="./figs/merge/fig5.png" alt="drawing" width="800"/>
+
+- Figure 6: 
+
+HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig6](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig6)
+<img src="./figs/merge/fig6.png" alt="drawing" width="800"/>
+
+- Figure 7: 
+
+HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig7](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig7)
+<img src="./figs/merge/fig7.png" alt="drawing" width="800"/>
+
+##### Moving Aveage Smoothing
+- Figure 8: 
+
+HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8)
+<img src="./figs/merge/fig8.png" alt="drawing" width="800"/>
+
+- Figure 15:
+<img src="./figs/merge/fig15.png" alt="drawing" width="800"/>
+
+##### Regression Discontinuity Design 
+
+*Tables refer to the paper* 
+
+#### 1.3. The Market Congestion
+##### Visualization
+- Figure 10:
+<img src="./figs/merge/fig10.png" alt="drawing" width="800"/>
+
+- Figure 11:
+<img src="./figs/merge/fig11.png" alt="drawing" width="800"/>
+
+##### Moving Aveage Smoothing
+
+- Figure 17:
+<img src="./figs/merge/fig17.png" alt="drawing" width="800"/>
+
+- Figure 18:
+<img src="./figs/merge/fig18.png" alt="drawing" width="800"/>
+
+##### Regression Discontinuity Design 
 
 *Tables refer to the paper* 
 
 
-HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig5](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig5)
-<img src="./figs/merge/fig5.png" alt="drawing" width="800"/>
-#### Figure 6: 
-HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig6](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig6)
-<img src="./figs/merge/fig6.png" alt="drawing" width="800"/>
-#### Figure 7: 
-HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig7](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig7)
-<img src="./figs/merge/fig7.png" alt="drawing" width="800"/>
-#### Figure 8: 
-HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8)
-<img src="./figs/merge/fig8.png" alt="drawing" width="800"/>
-#### Figure 9: 
-HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig9](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig9)
-<img src="./figs/merge/fig9.png" alt="drawing" width="800"/>
+## Results 2: NFT Drops
 
-####  Figure 10:
-<img src="./figs/merge/fig10.png" alt="drawing" width="800"/>
-
-####  Figure 11:
-<img src="./figs/merge/fig11.png" alt="drawing" width="800"/>
-
-
-####  Figure 15:
-<img src="./figs/merge/fig15.png" alt="drawing" width="800"/>
-
-####  Figure 16:
-<img src="./figs/merge/fig16.png" alt="drawing" width="800"/>
-
-####  Figure 17:
-<img src="./figs/merge/fig17.png" alt="drawing" width="800"/>
-
-####  Figure 18:
-<img src="./figs/merge/fig18.png" alt="drawing" width="800"/>
-
-## NFT
+### Visualization
 
 #### Figure 19:
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN1](https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN1)
@@ -144,6 +168,8 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 #### Figure 25:
 <img src="./figs/NFT/figP1.png" alt="drawing" width="800"/>
 
+### The Time Series Forecast
+
 #### Figure 26:
 <img src="./figs/NFT/figP2.png" alt="drawing" width="800"/>
 
@@ -165,4 +191,10 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 
 #### Figure 32
 <img src="./figs/NFT/figP8.png" alt="drawing" width="800"/>
+
+### Appendix
+
+- Figure 9: 
+HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig9](https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig9)
+<img src="./figs/merge/fig9.png" alt="drawing" width="800"/>
 
