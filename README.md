@@ -146,11 +146,7 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8](htt
 
 ##### 1.3.2. Moving Aveage Smoothing
 
-- Figure 17:
-<img src="./figs/merge/fig17.png" alt="drawing" width="800"/>
 
-- Figure 18:
-<img src="./figs/merge/fig18.png" alt="drawing" width="800"/>
 
 ##### 1.3.3. Regression Discontinuity Design 
 
