@@ -160,6 +160,21 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8](htt
 
 *Tables refer to the paper* 
 
+##### 1.3.4. The waiting tiem (delay) for sanctioned transactions after the merge
+
+|          |    delay |   included_in_block_num | hash                                                               |
+|---------:|---------:|------------------------:|:-------------------------------------------------------------------|
+|  2306258 | 32.5285  |                15540039 | 0xff356ad730ea4f648c98085f710b7589aced803b2815fe5fb5157e7a3a7182f3 |
+|  4989432 |  6.13179 |                15563637 | 0xf33fc2cda53285b7f25f170971fdd9844fa82f2b267e352c0a14c453cc1f3765 |
+|  5256193 |  4.50354 |                15565356 | 0xa6815e1cde7ea7fbf6a6ae76f0b7877d571241b6a3e25e2395607392a076f033 |
+|  5541213 | 17.2925  |                15567143 | 0xa1dd4ab4334ef7893874366fd6c284136f28d5905e4a2003cc27c1ff124ed83e |
+|  7893834 |  8.78804 |                15582285 | 0x0994d94c91dc0a53388aaddf33f4e1b4f2a474c3c76e5b3dd4c9e6613dcfc8a1 |
+| 10272603 | 40.9224  |                15598511 | 0xccc050a7b64a29f4776d9e76915faaa1205d8d4a603517a97eef2a8c2edc7c42 |
+| 10360786 | 23.8265  |                15599069 | 0xfd540939fbe9f2f77b63dc84901cce15f4afc3515c46b67502aae34f449034f5 |
+| 10522449 | 30.971   |                15600111 | 0x35b4a17260535930460658afa435a6b65ebf6f30e0986825903de20cf1b25c8a |
+| 10866517 | 25.3646  |                15602459 | 0x5f05166827fbafc12a069b4c7d78e4333f912d6e4194c32d690b9fdeda0139ab |
+| 11105516 | 26.2355  |                15604059 | 0xf3a6186b4369abf4be0b23d7134a17500b25245db5d9a6696fc71702c5c8e5a7 |
+
 #### 1.4. The Gas Used Per Second
 
 ##### 1.4.1. Visualization
