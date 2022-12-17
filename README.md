@@ -160,21 +160,23 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8](htt
 
 *Tables refer to the paper* 
 
-#### 1.3. The Market Congestion
+#### 1.4. The Gas Used Per Second
+
+##### 1.4.1. Visualization
+
 - Figure 19
 <img src="./figs/merge/figLoad1.png" alt="drawing" width="800"/>
 
 - Figure 20
 <img src="./figs/merge/figLoad2.png" alt="drawing" width="800"/>
 
-##### 1.3.1. Visualization
+
+##### 1.4.2. Moving Aveage Smoothing
 
 - Figure 21
 <img src="./figs/merge/figLoad3.png" alt="drawing" width="800"/>
 
-##### 1.3.2. Moving Aveage Smoothing
-
-##### 1.3.3. Regression Discontinuity Design 
+##### 1.4.3. Regression Discontinuity Design 
 *Tables refer to the paper*
 
 ## Results 2: NFT Drops
