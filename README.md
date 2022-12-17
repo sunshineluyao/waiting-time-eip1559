@@ -162,7 +162,7 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig8](htt
 
 ##### 1.3.4. The waitimg time (delay) for sanctioned transactions after the merge
 
-|          |delay (sconed) |   included_in_block_num | hash                                                               |
+|          |delay (second) |   included_in_block_num | hash                                                               |
 |---------:|---------:|------------------------:|:-------------------------------------------------------------------|
 |  2306258 | 32.5285  |                15540039 | 0xff356ad730ea4f648c98085f710b7589aced803b2815fe5fb5157e7a3a7182f3 |
 |  4989432 |  6.13179 |                15563637 | 0xf33fc2cda53285b7f25f170971fdd9844fa82f2b267e352c0a14c453cc1f3765 |
