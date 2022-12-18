@@ -222,10 +222,13 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN5](http
 HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6)
 <img src="./figs/NFT/figN6.png" alt="drawing" width="800"/>
 
-#### Figure 25:
-<img src="./figs/NFT/figP1.png" alt="drawing" width="800"/>
 
 ### 2.2. The Time Series Forecast
+
+#### The congestion ratio
+
+#### Figure 25:
+<img src="./figs/NFT/figP1.png" alt="drawing" width="800"/>
 
 #### Figure 26:
 <img src="./figs/NFT/figP2.png" alt="drawing" width="800"/>
@@ -236,9 +239,10 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 #### Figure 28
 <img src="./figs/NFT/figP4.png" alt="drawing" width="800"/>
 
+#### The continued congestion ratio
+
 #### Figure 29
 <img src="./figs/NFT/figP5.png" alt="drawing" width="800"/>
-
 
 #### Figure 30
 <img src="./figs/NFT/figP6.png" alt="drawing" width="800"/>
