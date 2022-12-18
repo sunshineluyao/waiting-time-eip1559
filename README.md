@@ -44,7 +44,7 @@ data
 ### The dictionary of Blockchain Data
 
 
-### The dicationary of Memopool Data
+### The dictionary of Memopool Data
 
 
 ## code
