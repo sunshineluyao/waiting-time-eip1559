@@ -220,13 +220,7 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 #### Figure 32
 <img src="./figs/NFT/figP8.png" alt="drawing" width="800"/>
 
-### 2.3. The Gas Used Per Second
 
-####
-
-####
-
-####
 
 ### Appendix
 
