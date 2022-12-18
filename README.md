@@ -29,9 +29,9 @@ data
 
 |type| from| to |
 |----|-----|----|
-| date|    |.   |
-| timestamp   |.    |.   |
-| block number|.     |.   |
+| date_time|  	2022-09-03 20:10:39  |2022-09-25 02:27:11  |
+| unix_timestamp   |1662235839	   |1664072831  |
+| block number|15467393	     |30	15607393  |
 
 
 ### The NFT Data Range
