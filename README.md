@@ -25,6 +25,28 @@ data
     └── Processed Data
 ```
 
+### The Merge Data Range
+
+|type| from| to |
+|----|-----|----|
+| date|    |.   |
+| timestamp   |.    |.   |
+| block number|.     |.   |
+
+
+### The NFT Data Range
+|type              | from                 | to                |
+|-----------------|-----------------------|-------------------|
+| date_time       |2021-08-04 00:00:00    |2021-09-21 00:00:00|
+| unix_timestamp  |1629763200.0           |1632182400.0       |
+| block number    |13084679               |13265754           |
+
+### The dictionary of Blockchain Data
+
+
+### The dicationary of Memopool Data
+
+
 ## code
 ```
 code
