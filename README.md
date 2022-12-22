@@ -240,6 +240,19 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 #### Figure 35
 <img src="./figs/Sanction/sanctioned_after.png" alt="drawing" width="800"/>
 
+#### Sanctioned Tranctions with Unobserved Delay (Only After the Merge)
+| address                                    | hash                                                               |
+|:-------------------------------------------|:-------------------------------------------------------------------|
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x0fb9a4e23d7c504571daed1394feea8bcb823a18a2887e7cab54f7fa4ffa2981 |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0xb37f8b00993271dd97ac9acdb4d84cb31cd210a037286bcc4bc7887f0008a81f |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0xd5c80d358016a1fe77260fa9cab88a706337c6f41f9112eca8840e9233794e82 |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x52cd1910b0710e73a9fb85f9e13861ef828a3244a1fa03944e47adf38ac9f851 |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0xe4a84c77748a627a093f79c6abb4b037c60ae9f58977bab2c46d17a657f2afcd |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x094cd7a9dc72cf6b3415fd18223a075e631d4ee5bfc900b9293dbd135db24334 |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x78c426d5b25290aa03153c728383f2d422c7a14a40a0a5e11bea67c104e5e295 |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x9d4fcf6315d8fbf2e07dc71a2c81df8c86a2dd518ac76c48eaeb397e28e95ca8 |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x0b9613f988da92901816bc76af743974032985b5eeeab70d5940c65b9f7faca6 |
+
 ### Appendix
 
 #### The Transaction Count
