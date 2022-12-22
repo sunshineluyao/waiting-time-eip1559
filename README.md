@@ -257,21 +257,21 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 
 #### 3.3. Relavant Statistics for the Delay
 
-#####
+##### 3.3.1. observed and unobserved delay before and after the merge
 
 |   merge |  delay observed | delay unobserved |
 |--------:|------------:|-------:|
 |before the merge | 1.19478e+07 | 326561 |
 |after the merge| 1.10589e+07 | 537997 |
 
-#####
+##### 3.3.2. sanctioned and unsanctioned transactions before and after the merge
 
 |   sanctioned|      before  the merge |            after  the merge|
 |-------------:|---------------:|--------------:|
 |            no |    9.71282e+06 |   9.12023e+06 |
 |            yes | 1007           | 466           |
 
-#####
+##### statistics for the delay for sanctioned and unsanctioned address before and after the merge
 
 |        |          count |     mean |        std |      min |      25% |     50% |     75% |            max |
 |:-------|---------------:|---------:|-----------:|---------:|---------:|--------:|--------:|---------------:|
