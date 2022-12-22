@@ -231,17 +231,19 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 
 ### Result 3: the Additional Results
 
-#### Figure 33
+####3.1. The Network for Sanctioned Transactions
+
+##### Figure 33
 <img src="./figs/Sanction/sanctioned.png" alt="drawing" width="800"/>
 
-#### Figure 34
+##### Figure 34
 <img src="./figs/Sanction/sanctioned_before.png" alt="drawing" width="800"/>
 
-#### Figure 35
+##### Figure 35
 <img src="./figs/Sanction/sanctioned_after.png" alt="drawing" width="800"/>
 
-#### Sanctioned Tranctions with Unobserved Delay (Only After the Merge)
-| address                                    | hash                                                               |
+#### 3.2 Sanctioned Tranctions with Unobserved Delay (Only After the Merge)
+| OFAC Sanctioned address Interacted          | hash                                                               |
 |:-------------------------------------------|:-------------------------------------------------------------------|
 | 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x0fb9a4e23d7c504571daed1394feea8bcb823a18a2887e7cab54f7fa4ffa2981 |
 | 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0xb37f8b00993271dd97ac9acdb4d84cb31cd210a037286bcc4bc7887f0008a81f |
@@ -252,6 +254,14 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 | 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x78c426d5b25290aa03153c728383f2d422c7a14a40a0a5e11bea67c104e5e295 |
 | 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x9d4fcf6315d8fbf2e07dc71a2c81df8c86a2dd518ac76c48eaeb397e28e95ca8 |
 | 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x0b9613f988da92901816bc76af743974032985b5eeeab70d5940c65b9f7faca6 |
+
+#### 3.3. Relavant Statistics for the Delay
+
+#####
+
+#####
+
+#####
 
 ### Appendix
 
