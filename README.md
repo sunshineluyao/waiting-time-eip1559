@@ -260,10 +260,26 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 ### Result 3 Sanctioned Transactions in the Merge Dataset
 
 #### 3.1. Sanctioned transactions with sanctioned address in the "from_address" (total_number=2)
+
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 50%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+
 | hash                                                               |   block_number | from_address                               | to_address                                 | OFAC sanctioned address interacted         |
 |:-------------------------------------------------------------------|---------------:|:-------------------------------------------|:-------------------------------------------|:-------------------------------------------|
 | 0xccb44ff691102ed30bf023cd6ee507f75feae2285c8e6a80a3af633fe69f9d19 |       15559539 | 0x3ad9db589d201a710ed237c829c7860ba86510fc | 0x4d981f56e1084c2661edf0e678863d8ada4fdf7c | 0x3ad9db589d201a710ed237c829c7860ba86510fc |
 | 0xdef1a59eb486ffecf279774940eeb4131f57716bfd1130705816b6bf386724aa |       15584119 | 0x3ad9db589d201a710ed237c829c7860ba86510fc | 0x7ca7e53817cca98d997a7d70ac54c4e8fb66d24a | 0x3ad9db589d201a710ed237c829c7860ba86510fc |
+</style>
 
 #### 3.2 Sanctioned transactions with sanctioned address in the "to_address" (total_number=
 
