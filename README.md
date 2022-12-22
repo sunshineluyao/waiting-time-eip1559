@@ -261,20 +261,6 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 
 #### 3.1. Sanctioned transactions with sanctioned address in the "from_address" (total_number=2)
 
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 50%;
-}
-table th:nth-of-type(4) {
-    width: 30%;
-}
-</style>
 
 +--------------------------------------------------------------------+----------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
 | hash                                                               |   block_number | from_address                               | to_address                                 | OFAC sanctioned address interacted         |
