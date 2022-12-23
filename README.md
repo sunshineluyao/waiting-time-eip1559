@@ -12,16 +12,17 @@ Blockchain enables peer-to-peer transactions in cyberspace without a trusted thi
 - [figs](https://github.com/sunshineluyao/waiting-time-eip1559/tree/main/figs)
 
 
-
 ## data
 ```
 data
-├── Data Source
-│   ├── EthereumETL, Etherscan.io, OFAC
-│   └── MemopoolGuru
-└── Data Product on Kaggle
-    ├── Queried Data
-    └── Processed Data
+├── processed_data
+│   ├── merge_sanctioned.csv
+│   ├── sanctioned_after.md
+│   ├── sanctioned_before.md
+│   ├── sanctioned_transaction_from.csv
+│   └── sanctioned_transaction_to.csv
+└── queried_data
+    └── sanction.csv
 ```
 
 ### The Merge Data Range
