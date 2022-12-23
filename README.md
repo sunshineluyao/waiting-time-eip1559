@@ -148,20 +148,6 @@ HTML [https://sunshineluyao.github.io/waiting-time-eip1559/figs/merge/fig4](http
 
 *Tables refer to the paper* 
 
-##### 1.2.4. The waitimg time (delay) for sanctioned transactions after the merge
-
-|          |delay (second) |   included_in_block_num | hash                                                               |
-|---------:|---------:|------------------------:|:-------------------------------------------------------------------|
-|  2306258 | 32.5285  |                15540039 | 0xff356ad730ea4f648c98085f710b7589aced803b2815fe5fb5157e7a3a7182f3 |
-|  4989432 |  6.13179 |                15563637 | 0xf33fc2cda53285b7f25f170971fdd9844fa82f2b267e352c0a14c453cc1f3765 |
-|  5256193 |  4.50354 |                15565356 | 0xa6815e1cde7ea7fbf6a6ae76f0b7877d571241b6a3e25e2395607392a076f033 |
-|  5541213 | 17.2925  |                15567143 | 0xa1dd4ab4334ef7893874366fd6c284136f28d5905e4a2003cc27c1ff124ed83e |
-|  7893834 |  8.78804 |                15582285 | 0x0994d94c91dc0a53388aaddf33f4e1b4f2a474c3c76e5b3dd4c9e6613dcfc8a1 |
-| 10272603 | 40.9224  |                15598511 | 0xccc050a7b64a29f4776d9e76915faaa1205d8d4a603517a97eef2a8c2edc7c42 |
-| 10360786 | 23.8265  |                15599069 | 0xfd540939fbe9f2f77b63dc84901cce15f4afc3515c46b67502aae34f449034f5 |
-| 10522449 | 30.971   |                15600111 | 0x35b4a17260535930460658afa435a6b65ebf6f30e0986825903de20cf1b25c8a |
-| 10866517 | 25.3646  |                15602459 | 0x5f05166827fbafc12a069b4c7d78e4333f912d6e4194c32d690b9fdeda0139ab |
-| 11105516 | 26.2355  |                15604059 | 0xf3a6186b4369abf4be0b23d7134a17500b25245db5d9a6696fc71702c5c8e5a7 |
 
 #### 1.3. The Gas Used Per Second
 
@@ -242,6 +228,57 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 <img src="./figs/NFT/figP8.png" alt="drawing" width="800"/>
 
 
+
+### Result 3: the Additional Results
+
+####3.1. The Network for Sanctioned Transactions
+
+##### Figure 33
+<img src="./figs/Sanction/sanctioned.png" alt="drawing" width="800"/>
+
+##### Figure 34
+<img src="./figs/Sanction/sanctioned_before.png" alt="drawing" width="800"/>
+
+##### Figure 35
+<img src="./figs/Sanction/sanctioned_after.png" alt="drawing" width="800"/>
+
+#### 3.2 Sanctioned Tranctions with Unobserved Delay (Only After the Merge)
+| OFAC Sanctioned address Interacted          | hash                                                               |
+|:-------------------------------------------|:-------------------------------------------------------------------|
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x0fb9a4e23d7c504571daed1394feea8bcb823a18a2887e7cab54f7fa4ffa2981 |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0xb37f8b00993271dd97ac9acdb4d84cb31cd210a037286bcc4bc7887f0008a81f |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0xd5c80d358016a1fe77260fa9cab88a706337c6f41f9112eca8840e9233794e82 |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x52cd1910b0710e73a9fb85f9e13861ef828a3244a1fa03944e47adf38ac9f851 |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0xe4a84c77748a627a093f79c6abb4b037c60ae9f58977bab2c46d17a657f2afcd |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x094cd7a9dc72cf6b3415fd18223a075e631d4ee5bfc900b9293dbd135db24334 |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x78c426d5b25290aa03153c728383f2d422c7a14a40a0a5e11bea67c104e5e295 |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x9d4fcf6315d8fbf2e07dc71a2c81df8c86a2dd518ac76c48eaeb397e28e95ca8 |
+| 0xd90e2f925da726b50c4ed8d0fb90ad053324f31b | 0x0b9613f988da92901816bc76af743974032985b5eeeab70d5940c65b9f7faca6 |
+
+#### 3.3. Relavant Statistics for the Delay
+
+##### 3.3.1. observed and unobserved delay before and after the merge
+
+|   merge |  delay observed | delay unobserved |
+|--------:|------------:|-------:|
+|before the merge | 1.19478e+07 | 326561 |
+|after the merge| 1.10589e+07 | 537997 |
+
+##### 3.3.2. sanctioned and unsanctioned transactions before and after the merge
+
+|   sanctioned|      before  the merge |            after  the merge|
+|-------------:|---------------:|--------------:|
+|            no |    9.71282e+06 |   9.12023e+06 |
+|            yes | 1007           | 466           |
+
+##### statistics for the delay for sanctioned and unsanctioned address before and after the merge
+
+|        |          count |     mean |        std |      min |      25% |     50% |     75% |            max |
+|:-------|---------------:|---------:|-----------:|---------:|---------:|--------:|--------:|---------------:|
+| (non-sanctioned, before) |    9.71282e+06 |  974.101 |  37825.7   | 2e-05    |  7.794   | 15.1918 | 29.6824 |    5.44163e+06 |
+| (non-sanctioned, after) |    9.12023e+06 | 4868.07  | 152958     | 6.4e-05  |  9.14709 | 13.7926 | 18.6293 |    6.29244e+06 |
+| (sanctioned, before) | 1007           | 6161.2   | 131471     | 0.115805 | 10.0729  | 19.6879 | 37.1808 |    2.95086e+06 |
+| (sanctioned, after) |  466           |   47.262 |    257.401 | 1.03641  | 11.8761  | 17.1533 | 22.5716 | 3107.16        |
 
 ### Appendix
 
