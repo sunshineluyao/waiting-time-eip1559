@@ -72,10 +72,10 @@ figs
 │       ├── 1.2.1. Visualization
 │       ├── 1.2.2. Moving Average Smoothing
 │       └── 1.2.3. Regression Discontinuity
-└── Result 2: The NFT drops
-    ├── 2.1. Visualization
-    ├── 2.2. The Time Series Forecast
-    ├── Result 3: The Confounding Factor
+├── Result 2: The NFT drops
+│   ├── 2.1. Visualization
+│   └── 2.2. The Time Series Forecast
+└── Result 3: The Confounding Factors
     ├── 3.1. The Network for Sanctioned Transactions
     ├── 3.2. Sanctioned Transactions with Unobserved Delay (Only found after the merge)
     └── 3.3. Relevance Statistics for the Delay
