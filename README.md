@@ -231,7 +231,7 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 
 
 
-### Result 3: the Additional Results
+### Result 3: the Comfounding Factors
 
 ####3.1. The Network for Sanctioned Transactions
 
@@ -273,7 +273,7 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 |            no |    9.71282e+06 |   9.12023e+06 |
 |            yes | 1007           | 466           |
 
-##### statistics for the delay for sanctioned and unsanctioned address before and after the merge
+##### 3.3.3. statistics for the delay for sanctioned and unsanctioned transactions before and after the merge
 
 |        |          count |     mean |        std |      min |      25% |     50% |     75% |            max |
 |:-------|---------------:|---------:|-----------:|---------:|---------:|--------:|--------:|---------------:|
