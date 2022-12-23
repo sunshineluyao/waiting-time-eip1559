@@ -40,10 +40,6 @@ data
 | unix_timestamp  |1629763200.0           |1632182400.0       |
 | block number    |13084679               |13265754           |
 
-### The dictionary of Blockchain Data
-
-
-### The dictionary of Memopool Data
 
 
 ## code
