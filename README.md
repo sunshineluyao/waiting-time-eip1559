@@ -12,16 +12,17 @@ Blockchain enables peer-to-peer transactions in cyberspace without a trusted thi
 - [figs](https://github.com/sunshineluyao/waiting-time-eip1559/tree/main/figs)
 
 
-
 ## data
 ```
 data
-├── Data Source
-│   ├── EthereumETL, Etherscan.io, OFAC
-│   └── MemopoolGuru
-└── Data Product on Kaggle
-    ├── Queried Data
-    └── Processed Data
+├── processed_data
+│   ├── merge_sanctioned.csv
+│   ├── sanctioned_after.md
+│   ├── sanctioned_before.md
+│   ├── sanctioned_transaction_from.csv
+│   └── sanctioned_transaction_to.csv
+└── queried_data
+    └── sanction.csv
 ```
 
 ### The Merge Data Range
@@ -40,10 +41,6 @@ data
 | unix_timestamp  |1629763200.0           |1632182400.0       |
 | block number    |13084679               |13265754           |
 
-### The dictionary of Blockchain Data
-
-
-### The dictionary of Memopool Data
 
 
 ## code
@@ -64,22 +61,28 @@ code
 ```
 figs
 ├── Result 1: the merge
-│   ├── 1.1. The Waiting Time (delay)
-│   │   ├── 1.1.1. Visualizations
+│   ├── 1.1. The waiting time (delay)
+│   │   ├── 1.1.1. Visualization
 │   │   ├── 1.1.2. Moving Average Smoothing
-│   │   └── 1.1.3. Regression Discontinuity Design
-│   ├── 1.2. The Market Congestion (efficiency)
-│   │   ├── 1.2.1. Visualizations
+│   │   └── 1.1.3. Regression Discontinuity
+│   ├── 1.2. The market congestion (efficiency)
+│   │   ├── 1.2.1. Visualization
 │   │   ├── 1.2.2. Moving Average Smoothing
-│   │   └── 1.2.3. Regression Discontinuity Design
-│   └── 1.3. The Gas Used Per Second (security)
-│        ├── 1.3.1. Visualizations
-│        ├── 1.3.2. Moving Average Smoothing
-│        └── 1.3.3. Regression Discontinuity Design
-│    
-└── Result 2. The NFT drops
-    ├── 2.1 Visualizations
-    └── 2.2. Time Series Forecast
+│   │   └── 1.2.3. Regression Discontinuity
+│   └── 1.3. The gas used per second (security)
+│       ├── 1.2.1. Visualization
+│       ├── 1.2.2. Moving Average Smoothing
+│       └── 1.2.3. Regression Discontinuity
+├── Result 2: The NFT drops
+│   ├── 2.1. Visualization
+│   └── 2.2. The Time Series Forecast
+└── Result 3: The Confounding Factors
+    ├── 3.1. The Network for Sanctioned Transactions
+    ├── 3.2. Sanctioned Transactions with Unobserved Delay (Only found after the merge)
+    └── 3.3. Relevance Statistics for the Delay
+        ├── 3.3.1. observed and unobserved delay before and after the merge
+        ├── 3.3.2. sanctioned and unsanctioned transactions before and after the merge
+        └── 3.3.3. statistics for the delay of the sanctioned and unsanctioned transactions before and after the merge
 ```
 
 ### Result 1: the merge
@@ -229,7 +232,7 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 
 
 
-### Result 3: the Additional Results
+### Result 3: the Comfounding Factors
 
 ####3.1. The Network for Sanctioned Transactions
 
@@ -271,7 +274,7 @@ HTML: [https://sunshineluyao.github.io/waiting-time-eip1559/figs/NFT/figN6](http
 |            no |    9.71282e+06 |   9.12023e+06 |
 |            yes | 1007           | 466           |
 
-##### statistics for the delay for sanctioned and unsanctioned address before and after the merge
+##### 3.3.3. statistics for the delay for sanctioned and unsanctioned transactions before and after the merge
 
 |        |          count |     mean |        std |      min |      25% |     50% |     75% |            max |
 |:-------|---------------:|---------:|-----------:|---------:|---------:|--------:|--------:|---------------:|
