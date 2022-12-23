@@ -15,10 +15,10 @@
 ## Result 2: The NFT drops
 ### 2.1. Visualization
 ### 2.2. The Time Series Forecast
-### Result 3: The Confounding Factors
+## Result 3: The Confounding Factors
 ### 3.1. The Network for Sanctioned Transactions
 ### 3.2. Sanctioned Transactions with Unobserved Delay (Only found after the merge)
 ### 3.3. Relevance Statistics for the Delay
 #### 3.3.1. observed and unobserved delay before and after the merge
 #### 3.3.2. sanctioned and unsanctioned transactions before and after the merge
-#### 3.3.3. statistics for the delay of the sanctioned and unsanctioned transactions before and after the mrege
+#### 3.3.3. statistics for the delay of the sanctioned and unsanctioned transactions before and after the merge
