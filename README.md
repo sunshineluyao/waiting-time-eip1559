@@ -26,6 +26,7 @@ data
 ```
 
 ### The Merge Data Range
+
 - the total number of blocks=140,000
 - the total number of transactions= 23,871,253
 
@@ -38,6 +39,7 @@ data
 
 ### The NFT Data Range
 - the total number of blocks = 181,075
+
 |type              | from                 | to                |
 |-----------------|-----------------------|-------------------|
 | date_time       |2021-08-04 00:00:00    |2021-09-21 00:00:00|
