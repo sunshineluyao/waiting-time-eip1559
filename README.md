@@ -239,7 +239,7 @@ figs
 
 ### Result 3: the Comfounding Factors
 
-####3.1. The Network for Sanctioned Transactions
+#### 3.1. The Network for Sanctioned Transactions
 
 ##### Figure 33
 <img src="./figs/Sanction/sanctioned.png" alt="drawing" width="800"/>
